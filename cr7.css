@@ -1,0 +1,85 @@
+h1{
+    position: absolute;
+    font-size: 250%;
+    font-weight: 500;
+    font-stretch: expanded;
+    font-family: 'Bitter', serif;
+    text-align: justify;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 2px rgba(5, 5, 5, 0.527) ;
+    color: rgb(4, 0, 255);
+    left: 90px;
+    width: 1520px;
+    height: 50px;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.397);
+    padding: 50px;
+}
+
+
+
+.img{
+    position: absolute;
+    border: 5px ;
+    border-radius: 50px;
+    top: 170px;
+    
+}
+
+h2{
+    
+    width: 500px;
+    position: absolute;
+    top: 180px;
+    left: 600px;
+    
+}
+
+.club{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 240px;
+    left: 600px;
+    border-radius: 10px;
+}
+
+.national{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 240px;
+    left: 1000px;
+    border-radius: 10px;
+}
+
+.tags, .values{
+    position: absolute;
+    top: 450px;
+    left: 600px;
+    width: 880px;
+    font-size: 22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    line-height: 28px;
+    
+}
+
+.values{
+    left: 790px;
+    font-weight: normal;
+}
+
+.brief{
+    
+    position: absolute;
+    top: 650px;
+    left: 600px;
+    width: 880px;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 25px;
+}
